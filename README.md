@@ -2,6 +2,8 @@ eslint-config-lmao
 ===
 Our ESLint configuration, based upon Airbnb's one.
 
+Install: `npm install --save-dev eslint-config-lmao`
+
 ###Rules that differ from [airbnb/javascript](http://github.com/airbnb/javascript):
  - There has to be one space after { and before } when declaring an object.
  - There has to be one space after a function name and before the ().
