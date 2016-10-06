@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-lmao",
+  "version": "1.0.0",
+  "description": "lmao's sharable ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmaohq/eslint-config-lmao.git"
+  },
+  "keywords": [
+    "lmao",
+    "eslint",
+    "eslint-config",
+    "eslint-config-lmao"
+  ],
+  "author": "Jonathan Ohayon <me@jonathano.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmaohq/eslint-config-lmao/issues"
+  },
+  "homepage": "https://github.com/lmaohq/eslint-config-lmao#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
