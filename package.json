@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lmao",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "lmao's sharable ESLint configuration",
   "main": "index.js",
   "scripts": {

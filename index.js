@@ -22,7 +22,8 @@ module.exports = {
     'no-console': 0,
     'semi': 1,
     'import/extensions': 0,
-    'comma-dangle': 0
+    'comma-dangle': 0,
+    'react/forbid-prop-types': 0
   },
   plugins: [
     'react',

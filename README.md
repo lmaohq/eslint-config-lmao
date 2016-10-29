@@ -11,3 +11,4 @@ Install: `npm install --save-dev eslint-config-lmao`
  - Semicolons are optional (when isn't present, shows a warning, not an error), but we recommend adding those.
  - Import/require extensions are open (not only .js files)
  - Trailing commas are not allowed.
+ - All React PropTypes are allowed (set react/forbid-prop-types to 0)
